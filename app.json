@@ -1,0 +1,7 @@
+{
+  "name": "algorithm-bot",
+  "description": "WhatsApp BOT build with BangsNgek",
+  "repository": "https://github.com/BangsNgek/algorithm-bot.git",
+  "logo": "https://cdn1.iconfinder.com/data/icons/social-black-buttons/512/anonymous-512.png"
+  "keywords": ["nodejs","whatsapp-bot", "bot", "whatsapp"]
+}
